@@ -3,6 +3,7 @@ package org.example.II_miniMaxSum;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -20,6 +21,9 @@ public class Main {
         bufferedReader.close();
     }
 
+    /**
+     * Target Method
+     */
     public static void miniMaxSum(List<Integer> arr) {
         /*
          //Solution with Stream API
