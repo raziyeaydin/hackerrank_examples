@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b4b6c09-0f10-4387-a1f7-22f11b27bec5" name="Changes" comment="004 Breaking the Record challenge is completed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jOfXrYIyBjZBThD10TV4XWxo0U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.org.example.IV_breakingTheRecords.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.I_plusMinus.Main" />
+      <module name="HackerRankExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.I_plusMinus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.III_timeConversion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.III_timeConversion.Main" />
+      <module name="HackerRankExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.III_timeConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.II_miniMaxSum.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.II_miniMaxSum.Main" />
+      <module name="HackerRankExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.II_miniMaxSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.IV_breakingTheRecords.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.IV_breakingTheRecords.Main" />
+      <module name="HackerRankExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.IV_breakingTheRecords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.IV_breakingTheRecords.Main" />
+        <item itemvalue="Application.org.example.III_timeConversion.Main" />
+        <item itemvalue="Application.org.example.II_miniMaxSum.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4b6c09-0f10-4387-a1f7-22f11b27bec5" name="Changes" comment="" />
+      <created>1721263091224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721263091224</updated>
+    </task>
+    <task id="LOCAL-00001" summary="001 Plus Minus challenge is completed">
+      <created>1721266283935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721266283935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="002 Mini Max Sum challenge is completed">
+      <created>1721272554582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721272554582</updated>
+    </task>
+    <task id="LOCAL-00003" summary="003 Time Conversion challenge is completed">
+      <created>1721347731802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347731802</updated>
+    </task>
+    <task id="LOCAL-00004" summary="003 Time Conversion challenge is completed">
+      <created>1721348474925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721348474925</updated>
+    </task>
+    <task id="LOCAL-00005" summary="004 Breaking the Record challenge is completed">
+      <created>1721430475450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721430475450</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="001 Plus Minus challenge is completed" />
+    <MESSAGE value="002 Mini Max Sum challenge is completed" />
+    <MESSAGE value="003 Time Conversion challenge is completed" />
+    <MESSAGE value="004 Breaking the Record challenge is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="004 Breaking the Record challenge is completed" />
+  </component>
+</project>
