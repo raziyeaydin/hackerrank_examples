@@ -41,6 +41,6 @@ public class Main {
 
         );
 
-        System.out.println(result);
+        result.stream().forEach(i -> System.out.println(i));
     }
 }
