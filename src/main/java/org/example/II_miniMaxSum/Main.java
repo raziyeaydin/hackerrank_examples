@@ -57,6 +57,6 @@ public class Main {
             }
         }
 
-        System.out.println((generalSum - Long.valueOf(maxValue)) + "  " + (generalSum - Long.valueOf(minValue)));
+        System.out.println((generalSum - Long.valueOf(maxValue)) + " " + (generalSum - Long.valueOf(minValue)));
     }
 }
