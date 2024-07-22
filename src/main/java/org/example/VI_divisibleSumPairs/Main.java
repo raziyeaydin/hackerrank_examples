@@ -43,7 +43,7 @@ public class Main {
             for (int j = i + 1; j < intList.size(); j++) {
                 int subSum = Integer.sum(intList.get(i), intList.get(j));
                 if (Integer.valueOf(0).equals(subSum % k)) {
-                    System.out.println("(" + i + "," + j + ") --> " + intList.get(i) + "+" + intList.get(j) + "=" + (intList.get(i) + intList.get(j)));
+                    System.out.println(String.format("(%d,%d) --> %d+%d=%d", i, j, intList.get(i), intList.get(j), subSum));
                     ++result;
                 }
             }
