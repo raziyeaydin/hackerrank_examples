@@ -59,4 +59,10 @@ public class Main {
 
         System.out.println((generalSum - Long.valueOf(maxValue)) + " " + (generalSum - Long.valueOf(minValue)));
     }
+
+    /****** Test Case ******
+
+     1 2 3 4 5
+
+     ***********************/
 }

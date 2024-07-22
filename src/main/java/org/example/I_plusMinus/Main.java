@@ -43,4 +43,11 @@ public class Main {
 
         result.stream().forEach(i -> System.out.println(i));
     }
+
+    /****** Test Case ******
+
+     6
+     -4 3 -9 0 4 1
+
+     ***********************/
 }

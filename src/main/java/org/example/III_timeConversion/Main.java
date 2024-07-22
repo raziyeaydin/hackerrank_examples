@@ -65,4 +65,10 @@ public class Main {
             return "This is not the correct time syntax";
         }
     }
+
+    /****** Test Case ******
+
+     12:40:22AM
+
+     ***********************/
 }
