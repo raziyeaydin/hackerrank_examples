@@ -1,4 +1,4 @@
-package org.example.I_plusMinus;
+package org.example.Week1.I_plusMinus;
 
 import java.io.BufferedReader;
 import java.io.IOException;

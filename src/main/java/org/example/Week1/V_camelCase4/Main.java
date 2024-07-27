@@ -1,4 +1,4 @@
-package org.example.V_camelCase4;
+package org.example.Week1.V_camelCase4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

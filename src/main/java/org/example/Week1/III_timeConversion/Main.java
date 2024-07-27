@@ -1,4 +1,4 @@
-package org.example.III_timeConversion;
+package org.example.Week1.III_timeConversion;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package org.example.VII_sparseArrays;
+package org.example.Week1.VII_sparseArrays;
 
 import java.io.BufferedReader;
 import java.io.IOException;

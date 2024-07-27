@@ -1,4 +1,4 @@
-package org.example.O_mockTest_week1;
+package org.example.Week1.Week1_MockTest;
 
 import java.io.BufferedReader;
 import java.io.IOException;

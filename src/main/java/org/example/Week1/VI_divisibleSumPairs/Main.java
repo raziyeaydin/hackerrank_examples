@@ -1,4 +1,4 @@
-package org.example.VI_divisibleSumPairs;
+package org.example.Week1.VI_divisibleSumPairs;
 
 import java.io.BufferedReader;
 import java.io.IOException;

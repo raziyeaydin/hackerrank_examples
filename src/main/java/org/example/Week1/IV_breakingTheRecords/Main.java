@@ -1,4 +1,4 @@
-package org.example.IV_breakingTheRecords;
+package org.example.Week1.IV_breakingTheRecords;
 
 import java.io.BufferedReader;
 import java.io.IOException;
